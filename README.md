@@ -2,4 +2,4 @@
 
 ## Projet de Statistiques Ensai
 
-- https://clement-dufaure.github.io/projet-ensai/#/
+- <a href="https://clement-dufaure.github.io/projet-ensai">Diaporama</a>
