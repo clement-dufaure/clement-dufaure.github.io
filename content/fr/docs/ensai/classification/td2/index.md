@@ -21,12 +21,11 @@ toc: true
 
 On considère un échantillon $x= (x1,...,xn)$ composé de $n$ observations indépendantes $x_i∈X$. Chaque observation est issue d’un mélange à $K$ composantes déterminées par $p(x_i;\theta)=\sum_{k=1}^{K}\pi_kp_k(x_i;\alpha_k)$,avec $\theta \in \Theta$.
 
-<!-- ![](https://i.imgur.com/My5TbxD.png)
-=> loi inconnue compliquée à décrire, à paramétrer
+![Image](melange1.png "=> loi inconnue compliquée à décrire, à paramétrer")
 
 
-![](https://i.imgur.com/FUWKgUo.png)
-=> 2 lois normales superposées -->
+![Image](melange2.png "=> 2 lois normales superposées")
+
 
 Idée : 
 - chaque point a une probabilité $\pi_k$ d'appartenir à une des deux courbes (= proportion des points correspondant à chacune des 2 courbes, bien entendue inconnue), $\sum \pi_k =1$
