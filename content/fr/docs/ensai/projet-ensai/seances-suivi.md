@@ -36,6 +36,7 @@ toc: true
 - Taille adapté :
   - trop restreint, vous aurez vite fait le tour
   - trop large, vous ne pourrez pas y répondre correctement dans les temps et nombre de pages impartis
+  - La problématique pourra être élargie si nécessaire au second semestre
 - **Attention** : vous ne pourrez pas détecter de causalité. C'est un projet de statistique descriptives, on peut "juste" trouver les variables qui fonctionnent ensemble => reflexion et bibliographie
 
 **A quoi ça sert ?**
@@ -59,7 +60,7 @@ toc: true
 - La définition de la problématique (et des "sous problématiques") guide le choix final des variables
 - La problématique pourra être élargie si nécessaire au second semestre
 
-### Le choix de de la ou des population.s, du ou des millésime.s
+### Le choix de la ou des population.s, du ou des millésime.s
 
 Question systématiques avant chaque traitemement de variables :
   - Quel est l'**individu statistique** ?
