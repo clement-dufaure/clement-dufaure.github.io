@@ -13,16 +13,6 @@ weight: 150
 toc: true
 ---
 
-## Les variables / le site 
-
-https://www.observatoire-des-territoires.gouv.fr/donnees_ouvertes
-
-Au delà des données en elles même
-- Des descriptions sur chaque indicateur
-- En particulier la source
-- Vous avez la possbilité d'aller sur le site de la source pour avoir des informations complémentaires sur les variables
-
-**Je ne suis pas un expert de ces données, je n'aurai aucune plus-value par rapport à ces informations !**
 
 ## Le public
 
@@ -41,8 +31,7 @@ Au delà des données en elles même
 - Il faut TOUJOURS préciser ce qui a été fait. Même si le code est fourni, la simple lecture du rapport DOIT suffire à comprendre tout ce qui a été fait depuis les données brutes jusqu'à votre analyse
 - Attention à être cohérent dans le passage d'une variable quanti en classes
 - Il faut TOUJOURS justifier le pourquoi de ce recalcul
-- Souvent utiliser des *effectifs* n'est pas une bonne idée, il vaut mieux des *fréquences* : il faudra parfois calculer ces fréquences
-  - exemple : nombre de gymnases VS nombre de gymnases pour 10000 habitant
+
 ## La forme
 
 - Eléments basique
@@ -61,7 +50,6 @@ Au delà des données en elles même
 
 - Le tableaux :
   - Eviter de faire des impressions d'écran des tableaux issus des logiciels
-  - Ne pas s'embéter à faire une PROC TABULATE utra complexe si c'est juste du formattage !!
   - Refaire le tableau au propre dans l'outil d'édition utilisé (Word, latex,...)
 
 - **Un élément non lisible est inutile (cette remarque est valable pour les annexes !)**
