@@ -28,11 +28,11 @@
 #   identifier = "lorem"
 #   url = "/tutorial/lorem/"
 
-[[main]]
-  name = "Ensai"
-  url = "/docs/ensai"
-  identifier = "ensai"
-  weight = 10
+#[[main]]
+#  name = "Ensai"
+#  url = "/docs/ensai"
+#  identifier = "ensai"
+#  weight = 10
 
 # [[main]]
 #   name = "SEM"
