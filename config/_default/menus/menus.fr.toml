@@ -40,17 +40,17 @@
 #   parent = "ensai"
 #   weight = 10
 
-[[main]]
-  name = "Classification"
-  url = "/docs/ensai/classification"
-  parent = "ensai"
-  weight = 10
+#[[main]]
+#  name = "Classification"
+#  url = "/docs/ensai/classification"
+#  parent = "ensai"
+#  weight = 10
 
-[[main]]
-  name = "Projet stat"
-  url = "/docs/ensai/projet-ensai"
-  parent = "ensai"
-  weight = 10
+#[[main]]
+#  name = "Projet stat"
+#  url = "/docs/ensai/projet-ensai"
+#  parent = "ensai"
+#  weight = 10
 
 [[main]]
   name = "Développement"
